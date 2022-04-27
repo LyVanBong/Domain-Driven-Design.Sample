@@ -22,6 +22,7 @@
   - Domain layer
   - Application layer
   - Infrastructure layer
+  ![image](https://user-images.githubusercontent.com/87922239/165467465-f5574f65-8637-41d2-8162-f1b01e87795a.png)
 - Domain layer: là thành phần quan trọng nhất trong kiến trúc bởi việc đóng gói các quy tắc và mô hình nghiệp vụ. Tầng nghiệp vụ này có các đặc điểm:
   - Biểu diễn mô hình nghiệp vụ qua entities dưới hình thức các lớp _POJO_
   > POJO (Plan old java object) là thuật ngữ để chỉ các lớp đối tượng mang ý nghĩa logic đơn thuần, không ràng buộc vào ngôn ngữ hay framework cụ thể
@@ -37,3 +38,4 @@
   - Bảo mật, giám sát, lưu trữ thông tin hoạt động (log, monitor)
 
 [*Domain-Driven Design*](https://microservicesvn.com/docs/arch/ddd.html)
+[*Domain Driver Design & Event Driven Architecture*](https://tungexplorer.me/2020/01/Other/DDD_EventDrivenArchitecture/)
