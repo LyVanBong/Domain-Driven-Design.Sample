@@ -38,4 +38,5 @@
   - Bảo mật, giám sát, lưu trữ thông tin hoạt động (log, monitor)
 
 [*Domain-Driven Design*](https://microservicesvn.com/docs/arch/ddd.html)
+
 [*Domain Driver Design & Event Driven Architecture*](https://tungexplorer.me/2020/01/Other/DDD_EventDrivenArchitecture/)
