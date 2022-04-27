@@ -1,16 +1,16 @@
 # Domain Driven Design
 ## Giới thiệu
 - Phương pháp DDDD bao gồm các bước:
-  - Phần tíh nghiệp vụ - domain model
+  - Phần tích nghiệp vụ - domain model
   - Định nghĩa ngữ cảnh - bounded
-  - Định nghĩa đổi tượng - entities
+  - Định nghĩa đối tượng - entities
   - Tập hợp - aggregate
   - Dịch vụ - service
 ## Khái niệm
 - Domain model
   - Core Domains - nghiệp vụ cốt lỗi, cơ bản nhất
   - Sub Domains - nghiệp vu có tính chất phụ trợ
-- Việc chia tách này là tạo ra được những phạm vi ngữ cahnhr - bounded context, giúp xác định rõ ranh giới giữa các nghiệp vụ, đồng thời thể hiện được chính xác ý nghĩa của những thực thể entity trongmooix phạm vi đó
+- Việc chia tách này là tạo ra được những phạm vi ngữ cảnh - bounded context, giúp xác định rõ ranh giới giữa các nghiệp vụ, đồng thời thể hiện được chính xác ý nghĩa của những thực thể entity trongmooix phạm vi đó
 - Entity được định nghĩa là các đối tượng mang dữ liệu với khả năng định danh duy nhất.
 - Value object: là các đối tượng chứa dữ liệu đơn thuần
 - Việc truy cập các đối tượng thông tin entity hay aggredate thường được đóng gói qua một lớp trung gian - repository. Việc đóng gói này giảm tính sự phụ thuộc của mô hình nghiệp vụ vào công nghệ lưu trữ, và nâng cao khả năng nâng cấp, thay thế công nghệ khi cần thiết
