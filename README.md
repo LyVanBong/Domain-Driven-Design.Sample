@@ -40,3 +40,5 @@
 [*Domain-Driven Design*](https://microservicesvn.com/docs/arch/ddd.html)
 
 [*Domain Driver Design & Event Driven Architecture*](https://tungexplorer.me/2020/01/Other/DDD_EventDrivenArchitecture/)
+
+[*Ebook Learning Domain-Driven Design*](https://github.com/LyVanBong/DomainDrivenDesign.Sample/blob/master/Resources/khononov_vlad_learning_domaindriven_design_aligning_software.pdf)
