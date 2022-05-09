@@ -1,6 +1,6 @@
 # Domain Driven Design
 ## Giới thiệu
-- Phương pháp DDDD bao gồm các bước:
+- Phương pháp DDD bao gồm các bước:
   - Phần tích nghiệp vụ - domain model
   - Định nghĩa ngữ cảnh - bounded
   - Định nghĩa đối tượng - entities
